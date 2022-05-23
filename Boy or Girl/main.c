@@ -1,4 +1,5 @@
 // https://codeforces.com/problemset/problem/236/A
+
 #include <stdio.h>
 
 int check_gender(char *);
